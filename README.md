@@ -1,4 +1,4 @@
-# emoflu
+# EmoFlu
 
 A new Flutter project.
 
